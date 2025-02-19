@@ -30,7 +30,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "",
+        "value": "20606467",
 
         "required": true
 
@@ -40,7 +40,7 @@
 
         "description": "Get this value from https://my.telegram.org",
 
-        "value": "",
+        "value": "bfc5a2df6d56ecfc5d25ad00d9659941",
 
         "required": true
 
@@ -50,7 +50,7 @@
 
         "description": "A Bot's token from Botfather",
 
-        "value": "",
+        "value": "8096700848:AAE6tGwut5EKOoVwRJVL6hsmygFLC3Ou2GE",
 
         "required": true
 
@@ -70,7 +70,7 @@
 
         "description": "The user id of user whom you would like to add as OWNER.",
 
-        "value": "",
+        "value": "5512860435",
 
         "required": true
 
@@ -110,7 +110,7 @@
 
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
 
-        "value": "",
+        "value": "-1002298738857",
 
         "required": true
 
